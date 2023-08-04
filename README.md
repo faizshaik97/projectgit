@@ -1,2 +1,4 @@
-# projectgit
-hi welcome to git
+# projectgt
+hello sir
+smaple project for git projects
+
